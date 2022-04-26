@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/imsheshshakya" target="blank"><img src="https://img.shields.io/twitter/follow/imsheshshakya?logo=twitter&style=for-the-badge" alt="imsheshshakya" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and frameworks**
+- 🌱 I’m currently learning **DS & Algo and frameworks**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source projects**
+
+- 💬 Ask me about **Competitive programming,Data Structures.**
 
 - 📫 How to reach me **shakyashesh101@gmail.com**
 
@@ -30,4 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheshshakya&show_icons=true&locale=en" alt="sheshshakya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheshshakya&" alt="sheshshakya" /></p>
+
+
 
