@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheshmani Shakya</h1>
-<h3 align="center">Sophomore CSE undergrad.Learning and Exploring.</h3>
+<h3 align="center">Pre-final year CSE undergrad.Learning and Exploring.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshshakya&label=Profile%20views&color=0e75b6&style=flat" alt="sheshshakya" /> </p>
 
